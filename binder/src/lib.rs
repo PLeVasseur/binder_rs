@@ -96,6 +96,7 @@
 #[macro_use]
 mod binder;
 mod binder_async;
+mod bundle;
 mod error;
 mod native;
 mod parcel;

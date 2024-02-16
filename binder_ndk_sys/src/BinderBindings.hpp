@@ -23,6 +23,7 @@
 #include <android/binder_shell.h>
 #include <android/binder_stability.h>
 #include <android/binder_status.h>
+#include <android/persistable_bundle.h>
 
 namespace android {
 
